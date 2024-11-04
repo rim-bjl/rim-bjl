@@ -1,9 +1,6 @@
-
-# rim-bjl/README.md
-
 <h1 align="center">Hi 👋, I'm Rim Boujlajel</h1>  
 <h3 align="center">A passionate frontend developer from Morocco</h3>  
-> 👩‍💻 Frontend Developer | VueJs, Typescript, JavaScript, TailwindCss Developing robust and scalable web applications with a passion for design and innovation. Let's connect and bring creative ideas to life! 🚀🌐
+👩‍💻 Frontend Developer | VueJs, Typescript, JavaScript, TailwindCss Developing robust and scalable web applications with a passion for design and innovation. Let's connect and bring creative ideas to life! 🚀🌐
 
 
 ## 🛠️ Technologies & Tools
